@@ -4,17 +4,18 @@ Interface web para consumo da API da Pizzaria, permitindo visualizar, cadastrar 
 
 Desenvolvida utilizando **HTML**, **CSS**, **Bootstrap** e **jQuery**, com foco educacional para demonstrar o consumo de APIs REST no frontend.
 
+Esta versão é um fork da versão original criada para fins de estudo e de criação de novos recursos.
 ---
 
 ## 🌐 Demo Online
 
-A aplicação está disponível para testes em:
+A aplicação original, sem minhas mudanças, está disponível para testes em:
 
 👉 http://pizzaria.viniciusguedes.cloud
 
 ---
 
-## 🔗 Repositórios
+## 🔗 Repositórios originais
 
 - 🔙 Backend (API):  
 👉 https://github.com/LuizRosa-Aulas/Pizzaria.API  
